@@ -1,4 +1,4 @@
 # learngitt
 learning git hub 
 <br>
-author : Gauri Tarte.
+author : Gauri Tarte (student).
